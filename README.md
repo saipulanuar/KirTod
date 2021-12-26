@@ -16,4 +16,4 @@ cp -r namafilebotlu /$HOME\
 cd\
 cd namafilebotlu\
 npm install & npm i\
-node .\
+node .
