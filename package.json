@@ -1,8 +1,8 @@
 {
-  "name": "𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧",
+  "name": "KirBotz",
   "type": "Baileys",
   "version": "3.5.3",
-  "description": "Subrek YouTube : https://cutt.ly/SaipulOfficial",
+  "description": "Subrek YouTube : KirBotz×",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   "keywords": [
     "bot"
   ],
-  "author": "𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧",
+  "author": "KirBotz",
   "license": "GPL-3.0",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
@@ -90,11 +90,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saipulanuar"
+    "url": "git+https://github.com/KrBtz"
   },
   "bugs": {
-    "url": "https://github.com/saipulanuar"
+    "url": "https://github.com/KrBtz"
   },
-  "homepage": "https://github.com/saipulanuar",
+  "homepage": "https://github.com/KrBtz",
   "devDependencies": {}
 }
